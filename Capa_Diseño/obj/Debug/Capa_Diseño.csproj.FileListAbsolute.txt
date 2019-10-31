@@ -1,0 +1,12 @@
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\bin\Debug\Capa_Diseño.exe.config
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\bin\Debug\Capa_Diseño.exe
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\obj\Debug\Capa_Diseño.csprojAssemblyReference.cache
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\obj\Debug\Capa_Diseño.Form1.resources
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\obj\Debug\Capa_Diseño.Properties.Resources.resources
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\obj\Debug\Capa_Diseño.exe
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Diseño\obj\Debug\Capa_Diseño.pdb

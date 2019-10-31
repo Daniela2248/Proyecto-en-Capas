@@ -1,0 +1,5 @@
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Logica\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Logica\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Logica\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Logica\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\Brian Alexander\Desktop\Capas\Capa_Logica\Capa_Logica\obj\Debug\Capa_Logica.pdb
